@@ -8,7 +8,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Chakravarty| Moupyali | Geography | Dr. Abigail Langston | Cricket |
 | Da Rocha Hintz | Gabriel | Agronomy | Ignacio Ciampitti | 🏐 |
 | Chakravarty| Moupyali | Geography | Dr. Abigail Langston | Cricket |
-| Darochahintz| Gabriel |
+| Da Rocha Hintz| Gabriel | Agronomy | Ignacio Ciampitti | 🏐 |
 | Dua | Aashvi |
 | Garcia Helguera | Paula |
 | Giordano | Nicolas | Agronomy | Romulo P Lollato | Kitesurf |
