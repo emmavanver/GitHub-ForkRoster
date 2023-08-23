@@ -6,8 +6,6 @@ Enter the information requested below using the Markdown formatting language.  K
 | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- |
 | Carney | Luke |
 | Chakravarty| Moupyali | Geography | Dr. Abigail Langston | Cricket |
-| Da Rocha Hintz | Gabriel | Agronomy | Ignacio Ciampitti | 🏐 |
-| Chakravarty| Moupyali | Geography | Dr. Abigail Langston | Cricket |
 | Da Rocha Hintz| Gabriel | Agronomy | Ignacio Ciampitti | 🏐 |
 | Dua | Aashvi |
 | Garcia Helguera | Paula |
