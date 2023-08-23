@@ -7,7 +7,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Carney | Luke |
 | Chakravarty| Moupyali |
 | Darochahintz| Gabriel |
-| Dua | Aashvi |
+| Dua | Aashvi | Agricultural Engineering | Dr. Ajay Sharda | Football 
 | Garcia Helguera | Paula |
 | Giordano | Nicolas |
 | Hutchinson | Mitchell |
