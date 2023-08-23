@@ -5,6 +5,8 @@ Enter the information requested below using the Markdown formatting language.  K
 | Last Name                    | First Name                   | Major                        | Advisor                      | Favorite Sport               |
 | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- |
 | Carney | Luke |
+| Chakravarty| Moupyali |
+| Da Rocha Hintz | Gabriel | Agronomy | Ignacio Ciampitti | 🏐 |
 | Chakravarty| Moupyali | Geography | Dr. Abigail Langston | Cricket |
 | Darochahintz| Gabriel |
 | Dua | Aashvi |
