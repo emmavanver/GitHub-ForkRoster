@@ -21,4 +21,4 @@ Enter the information requested below using the Markdown formatting language.  K
 | Pereyra Picabea | Valentina |
 | Santiago | Gustavo |
 | Singh | Rahul |
-| van Versendaal Pirez | Emmanuela |
+| van Versendaal Pirez | Emmanuela | Agronomy  | Ignacio Ciampitti  | Soccer
