@@ -20,5 +20,9 @@ Enter the information requested below using the Markdown formatting language.  K
 | Peiretti | Jose |
 | Pereyra Picabea | Valentina |
 | Santiago | Gustavo |
+<<<<<<< HEAD
 | Singh | Rahul | Agricultual Engineering | Dr. Ajay Sharda | Soccer
+=======
+| Singh | Rahul | Agricultural Engineering | Dr. Ajay Sharda | Soccer |
+>>>>>>> b60790de01e60044ecd354bf4f04b9bfe0148cfa
 | van Versendaal Pirez | Emmanuela |
