@@ -19,6 +19,6 @@ Enter the information requested below using the Markdown formatting language.  K
 | Mohamadzadeh | Neda |Geography | Marcellus Caldas | 🎳 |
 | Peiretti | Jose |
 | Pereyra Picabea | Valentina |
-| Santiago | Gustavo |
+| Santiago | Gustavo | Biosystems Engineering | Ignacio Ciampitti | 🚴‍♂️ |
 | Singh | Rahul |
 | van Versendaal Pirez | Emmanuela |
