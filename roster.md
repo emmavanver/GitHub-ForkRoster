@@ -6,19 +6,21 @@ Enter the information requested below using the Markdown formatting language.  K
 | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- |
 | Carney | Luke |
 | Chakravarty| Moupyali |
-| Da Rocha Hintz| Gabriel |  Agronomy | Ignacio Ciampitti | 🏐 |
+| Da Rocha Hintz | Gabriel | Agronomy | Ignacio Ciampitti | 🏐 |
+| Chakravarty| Moupyali | Geography | Dr. Abigail Langston | Cricket |
+| Darochahintz| Gabriel |
 | Dua | Aashvi |
 | Garcia Helguera | Paula |
-| Giordano | Nicolas |
+| Giordano | Nicolas | Agronomy | Romulo P Lollato | Kitesurf |
 | Hutchinson | Mitchell |
 | Hutchinson | Shawn | Geography | John Harrington | 🏒 |
-| Jha | Aditya |
+| Jha | Aditya | PhD in Biological and Agricultural Engineering| Dr Aleksey Sheshukov | Cricket/Football |
 | Jilek	| Petr |
 | Kubacka	| Isaac |
 | McClellan	| Jessie |
-| Mohamadzadeh | Neda |
+| Mohamadzadeh | Neda |Geography | Marcellus Caldas | 🎳 |
 | Peiretti | Jose |
 | Pereyra Picabea | Valentina |
-| Santiago | Gustavo |
+| Santiago | Gustavo | Biosystems Engineering | Ignacio Ciampitti | 🚴‍♂️ |
 | Singh | Rahul |
 | van Versendaal Pirez | Emmanuela |
