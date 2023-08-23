@@ -6,7 +6,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- |
 | Carney | Luke |
 | Chakravarty| Moupyali |
-| Darochahintz| Gabriel |
+| Da Rocha Hintz| Gabriel |  Agronomy | Ignacio Ciampitti | 🏐 |
 | Dua | Aashvi |
 | Garcia Helguera | Paula |
 | Giordano | Nicolas |
