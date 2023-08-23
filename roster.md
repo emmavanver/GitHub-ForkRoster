@@ -9,7 +9,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Darochahintz| Gabriel |
 | Dua | Aashvi |
 | Garcia Helguera | Paula |
-| Giordano | Nicolas |
+| Giordano | Nicolas | Agronomy | Romulo P Lollato | Kitesurf |
 | Hutchinson | Mitchell |
 | Hutchinson | Shawn | Geography | John Harrington | 🏒 |
 | Jha | Aditya | PhD in Biological and Agricultural Engineering| Dr Aleksey Sheshukov | Cricket/Football
