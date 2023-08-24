@@ -13,7 +13,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Hutchinson | Mitchell |
 | Hutchinson | Shawn | Geography | John Harrington | 🏒 |
 | Jha | Aditya |
-| Jilek	| Petr | Electrical Engineering | Garrett Peterson | Judo
+| Jilek	| Petr | Electrical Engineering | Garrett Peterson | Judo |
 | Kubacka	| Isaac |
 | McClellan	| Jessie |
 | Mohamadzadeh | Neda |
