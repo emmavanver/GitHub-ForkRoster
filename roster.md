@@ -5,20 +5,20 @@ Enter the information requested below using the Markdown formatting language.  K
 | Last Name                    | First Name                   | Major                        | Advisor                      | Favorite Sport               |
 | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- |
 | Carney | Luke |
-| Chakravarty| Moupyali |
-| Darochahintz| Gabriel |
+| Chakravarty| Moupyali | Geography | Dr. Abigail Langston | Cricket |
+| Da Rocha Hintz| Gabriel | Agronomy | Ignacio Ciampitti | 🏐 |
 | Dua | Aashvi |
 | Garcia Helguera | Paula |
-| Giordano | Nicolas |
-| Hutchinson | Mitchell |
+| Giordano | Nicolas | Agronomy | Romulo P Lollato | Kitesurf |
+| Hutchinson | Mitchell | Computer Science | Sheryl Cornel | Soccer |
 | Hutchinson | Shawn | Geography | John Harrington | 🏒 |
-| Jha | Aditya |
-| Jilek	| Petr | Electrical Engineering | Garrett Peterson | Judo |
+| Jha | Aditya | PhD in Biological and Agricultural Engineering| Dr Aleksey Sheshukov | Cricket/Football |
+| Jilek	| Petr |
 | Kubacka	| Isaac |
 | McClellan	| Jessie |
-| Mohamadzadeh | Neda |
+| Mohamadzadeh | Neda |Geography | Marcellus Caldas | 🎳 |
 | Peiretti | Jose |
 | Pereyra Picabea | Valentina |
-| Santiago | Gustavo |
+| Santiago | Gustavo | Biosystems Engineering | Ignacio Ciampitti | 🚴‍♂️ |
 | Singh | Rahul |
 | van Versendaal Pirez | Emmanuela |
