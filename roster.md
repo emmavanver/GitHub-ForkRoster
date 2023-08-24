@@ -13,7 +13,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Hutchinson | Mitchell | Computer Science | Sheryl Cornel | Soccer |
 | Hutchinson | Shawn | Geography | John Harrington | 🏒 |
 | Jha | Aditya | PhD in Biological and Agricultural Engineering| Dr Aleksey Sheshukov | Cricket/Football |
-| Jilek	| Petr |
+| Jilek	| Petr | Electrical Engineering | Garrett Peterson | Judo |
 | Kubacka	| Isaac |
 | McClellan	| Jessie |
 | Mohamadzadeh | Neda |Geography | Marcellus Caldas | 🎳 |
