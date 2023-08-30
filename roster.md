@@ -15,7 +15,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Jha | Aditya | PhD in Biological and Agricultural Engineering| Dr Aleksey Sheshukov | Cricket/Football |
 | Jilek	| Petr | Electrical Engineering | Garrett Peterson | Judo |
 | Kubacka	| Isaac |
-| McClellan	| Jessie |
+| McClellan	| Jessie | Geography | Shawn Hutchinson | 🏀 |
 | Mohamadzadeh | Neda |Geography | Marcellus Caldas | 🎳 |
 | Peiretti | Jose |
 | Pereyra Picabea | Valentina |
