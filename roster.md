@@ -7,7 +7,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Carney | Luke | Wildlife Biology | Lydia Zeglin | :volleyball: |
 | Chakravarty| Moupyali | Geography | Dr. Abigail Langston | Cricket |
 | Da Rocha Hintz| Gabriel | Agronomy | Ignacio Ciampitti | 🏐 |
-| Dua | Aashvi |
+| Dua | Aashvi | Agricultural Engineering | Dr. Ajay Sharda | Soccer |
 | Garcia Helguera | Paula |
 | Giordano | Nicolas | Agronomy | Romulo P Lollato | Kitesurf |
 | Hutchinson | Mitchell | Computer Science | Sheryl Cornel | Soccer |
