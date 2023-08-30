@@ -4,7 +4,7 @@ Enter the information requested below using the Markdown formatting language.  K
 
 | Last Name                    | First Name                   | Major                        | Advisor                      | Favorite Sport               |
 | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- | :--------------------------- |
-| Carney | Luke |
+| Carney | Luke | Wildlife Biology | Lydia Zeglin | :volleyball: |
 | Chakravarty| Moupyali |
 | Darochahintz| Gabriel |
 | Dua | Aashvi |
