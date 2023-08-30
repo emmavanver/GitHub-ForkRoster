@@ -17,7 +17,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Kubacka	| Isaac |
 | McClellan	| Jessie |
 | Mohamadzadeh | Neda |
-| Peiretti | Jose |
+| Peiretti | Jose | Agricultural Engineering | Ajay Sharda | Gravel Cycling
 | Pereyra Picabea | Valentina |
 | Santiago | Gustavo |
 | Singh | Rahul |
