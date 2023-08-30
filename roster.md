@@ -23,3 +23,4 @@ Enter the information requested below using the Markdown formatting language.  K
 | Santiago | Gustavo |
 | Singh | Rahul | Agricultural Engineering | Dr. Ajay Sharda | Soccer |
 | van Versendaal Pirez | Emmanuela |
+| White | Walter | Chemistry | Hutchinson | Football |
