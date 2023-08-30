@@ -17,7 +17,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Kubacka	| Isaac |
 | McClellan	| Jessie | Geography | Shawn Hutchinson | 🏀 |
 | Mohamadzadeh | Neda |Geography | Marcellus Caldas | 🎳 |
-| Peiretti | Jose |
+| Peiretti | Jose | Agricultural Engineering | Ajay Sharda | Gravel Cycling |
 | Pereyra Picabea | Valentina |
 | Santiago | Gustavo | Biosystems Engineering | Ignacio Ciampitti | 🚴‍♂️ |
 | Santiago | Gustavo |
