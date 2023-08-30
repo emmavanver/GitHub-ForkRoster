@@ -14,7 +14,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Hutchinson | Shawn | Geography | John Harrington | 🏒 |
 | Jha | Aditya | PhD in Biological and Agricultural Engineering| Dr Aleksey Sheshukov | Cricket/Football |
 | Jilek	| Petr | Electrical Engineering | Garrett Peterson | Judo |
-| Kubacka	| Isaac |
+| Kubacka	| Isaac | Geology | Colleen Gura | Football |
 | McClellan	| Jessie | Geography | Shawn Hutchinson | 🏀 |
 | Mohamadzadeh | Neda |Geography | Marcellus Caldas | 🎳 |
 | Peiretti | Jose | Agricultural Engineering | Ajay Sharda | Gravel Cycling |
