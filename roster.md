@@ -15,7 +15,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Jha | Aditya |
 | Jilek	| Petr |
 | Kubacka	| Isaac |
-| McClellan	| Jessie |
+| McClellan	| Jessie | Geography | Shawn Hutchinson | 🏀 |
 | Mohamadzadeh | Neda |
 | Peiretti | Jose |
 | Pereyra Picabea | Valentina |
