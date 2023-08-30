@@ -14,7 +14,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Hutchinson | Shawn | Geography | John Harrington | 🏒 |
 | Jha | Aditya |
 | Jilek	| Petr |
-| Kubacka	| Isaac |
+| Kubacka	| Isaac | Geology | Colleen Gura | Football |
 | McClellan	| Jessie |
 | Mohamadzadeh | Neda |
 | Peiretti | Jose |
