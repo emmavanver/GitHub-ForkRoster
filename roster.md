@@ -12,7 +12,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Giordano | Nicolas |
 | Hutchinson | Mitchell |
 | Hutchinson | Shawn | Geography | John Harrington | 🏒 |
-| Jha | Aditya | PhD in Biological and Agricultural Engineering| Dr Aleksey Sheshukov | Cricket/Football
+| Jha | Aditya | PhD in Biological and Agricultural Engineering| Dr Aleksey Sheshukov | Cricket / Football
 | Jilek	| Petr |
 | Kubacka	| Isaac |
 | McClellan	| Jessie |
