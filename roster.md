@@ -20,5 +20,5 @@ Enter the information requested below using the Markdown formatting language.  K
 | Peiretti | Jose |
 | Pereyra Picabea | Valentina |
 | Santiago | Gustavo | Biosystems Engineering | Ignacio Ciampitti | 🚴‍♂️ |
-| Singh | Rahul | Biological and Agricultural Engineering | Ajay Sharda | Cricket/Soccer
+| Singh | Rahul | Biological and Agricultural Engineering | Ajay Sharda | Cricket/Soccer |
 | van Versendaal Pirez | Emmanuela |
