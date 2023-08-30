@@ -19,11 +19,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Mohamadzadeh | Neda |Geography | Marcellus Caldas | 🎳 |
 | Peiretti | Jose |
 | Pereyra Picabea | Valentina |
-<<<<<<< HEAD
 | Santiago | Gustavo | Biosystems Engineering | Ignacio Ciampitti | 🚴‍♂️ |
 | Santiago | Gustavo |
-<<<<<<< HEAD
 | Singh | Rahul | Agricultural Engineering | Dr. Ajay Sharda | Soccer |
->>>>>>> b60790de01e60044ecd354bf4f04b9bfe0148cfa
->>>>>>> 5e347ff26776ceba2cc41a4448b2163c81407292
 | van Versendaal Pirez | Emmanuela |
