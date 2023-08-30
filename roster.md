@@ -22,3 +22,4 @@ Enter the information requested below using the Markdown formatting language.  K
 | Santiago | Gustavo |
 | Singh | Rahul |
 | van Versendaal Pirez | Emmanuela |
+| White | Walter | Chemistry | Hutchinson | Football |
