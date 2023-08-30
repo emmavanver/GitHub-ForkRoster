@@ -20,6 +20,7 @@ Enter the information requested below using the Markdown formatting language.  K
 | Peiretti | Jose |
 | Pereyra Picabea | Valentina |
 | Santiago | Gustavo | Biosystems Engineering | Ignacio Ciampitti | 🚴‍♂️ |
-| Singh | Rahul |
+| Santiago | Gustavo |
+| Singh | Rahul | Agricultural Engineering | Dr. Ajay Sharda | Soccer |
 | van Versendaal Pirez | Emmanuela |
 | White | Walter | Chemistry | Hutchinson | Football |
